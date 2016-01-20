@@ -1,0 +1,27 @@
+.div{
+	
+	border: 8px #C157D3 solid;
+	width: 800px;
+	height: 150px;
+	padding-top: 10px ;
+  	padding-right: 10px;
+  	padding-bottom: 30px;
+  	padding-left: 10px;
+  	background: #F9CB9C ;
+	
+	
+}
+.div2{
+	padding: 20px red solid;
+	border: 3px green dashed;
+	width: 650px;
+	height: 80px;
+	text-align: center;
+	margin-left: 50px;
+	margin-top: 30px;
+	background: #FFFFFF;
+	padding-top: 30px;
+
+
+
+}
